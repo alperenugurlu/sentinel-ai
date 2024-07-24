@@ -24,6 +24,13 @@ cd sentinel-ai
 pip install -r requirements.txt
 ```
 
+```sh
+Edit:
+nano or leafpad etc.. sentinel-ai.py 
+
+You have to write open ai api key. // openai.api_key = 'YOUR OPEN AI API KEY'
+```
+
 ## Usage
 
 Run the script:
