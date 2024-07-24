@@ -43,7 +43,7 @@ Use the GUI to select files for scanning.
 Choose the AI model (GPT-3.5 or GPT-4) for advanced detection.
 Review the results displayed in the console and saved to sensitive_data_report.txt.
 
-## Example Scenerio
+## Example Scenario
 
 ```sh
 metagoofil -d <target_domain> -t <file_type> -l <limit> 
