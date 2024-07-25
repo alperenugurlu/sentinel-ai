@@ -19,7 +19,7 @@ Welcome to Sentinel AI, an advanced sensitive data scanner that leverages AI mod
 Clone the repository and install the required packages:
 
 ```sh
-git clone https://github.com/yourusername/sentinel-ai.git
+git clone https://github.com/alperenugurlu/sentinel-ai.git
 cd sentinel-ai
 pip install -r requirements.txt
 ```
